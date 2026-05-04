@@ -26,17 +26,6 @@
     </a>
   </p>
 
-  <!-- <p> -->
-    <!-- <a href="https://instagram.com/dreamhub.ir">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://twitter.com/unknownmsv">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://discord.com/users/unknownmsv">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a> -->
-  <!-- </p> -->
 </div>
 
 ---
@@ -45,8 +34,7 @@
 
 I am a passionate developer specializing in backend systems and scalable applications. Currently focusing on **Data Science** and **Machine Learning**, I strive to write clean, efficient code that solves real-world problems.
 
-- 🌱 I’m currently exploring **Data Science & Deep Learning**.
-- 🏢 Working at **[DonutMSV](https://sepehrsh.ir)**.
+- 🌱 I’m currently exploring **Backend & Deep Learning**.
 - 🚀 Check out my projects at **[project.donutmsv.ir](https://project.sepehrsh.ir)**.
 
 ---
@@ -57,9 +45,9 @@ I am a passionate developer specializing in backend systems and scalable applica
 
 | **Languages** | **Frameworks & Libraries** | **Tools & DevOps** |
 | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![NuxtJS](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |  | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |  | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square) | |
 
 
